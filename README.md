@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem-Vindo a meu perfil 💙
 
-<!--
-**pedroBr4l/pedroBr4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Henrique 
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo📧
+
+Email:pedrohenriquedesouzamarques15@gmail.com
+
+Instagram:@pedro_souzxx
+
+![](https://media.tenor.com/g0kMau3yfwUAAAAM/renato-augusto-melhor-meia-do-brasil-renato-augusto-melhor-meio-campista-do-brasil.gif)
+
